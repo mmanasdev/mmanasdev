@@ -4,7 +4,7 @@ Hi 👋 My name is Miguel Mañas
 iOS Developer
 -------------
 
-*   🌍  I'm based in Spain
+*   🌍  I'm based in Spain 🇪🇸
 *   🚀  I'm currently working on [atlabs.tech](http://www.atlabs.tech)
 *   🧠  I'm learning SwiftUI and Combine
 
