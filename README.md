@@ -5,7 +5,7 @@ iOS Developer
 -------------
 
 *   🌍  I'm based in Spain 🇪🇸
-*   🚀  I'm currently working on [atlabs.tech](http://www.atlabs.tech)
+*   🚀  I'm currently working on [adesso.es](https://www.adesso.es/es/)
 *   🧠  I'm learning SwiftUI and Combine
 
 
